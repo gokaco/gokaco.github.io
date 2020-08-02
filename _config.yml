@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Knowledge Human'
+description: 'Knowledge Human is a community of awesome people like you, who thrive for knowledge!!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'kartikeyagoswami20@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -20,17 +20,17 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Kartikeya
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      avatar:         ./assets/images/avatar1.jpg
+      bio:            "Hi, I am Kartikeya, the creator of Knowledge Human. I hope you like it!"
+      email:          kartikeyagoswami20@gmail.com
+      twitter:        https://twitter.com/gokaco
 
     jane:
       name:           Jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         ./assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
