@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FREE HOSTING and SSL for LIFETIME | GITHUB PREMIUM QUALITY| STEP by STEP WEBSITE CREATION 2020"
+title: "FREE HOSTING and SSL for LIFETIME | GITHUB | STEP by STEP WEBSITE CREATION 2020"
 categories: [Blogs and Website]
 image: assets/images/heading.png
 tags: [featured]
