@@ -54,3 +54,5 @@ Tron's clearly outlined long-term vision with date-tagged milestones, and the in
 It will be interesting to see how Tron evolves to meet these expectations.
 
 <i>`Investing in cryptocurrencies and other Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Knowledge Human or the writer to invest in cryptocurrencies or other ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Knowledge Human makes no representations or warranties as to the accuracy or timeliness of the information contained herein.`</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oij9E4vt4eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
